@@ -185,7 +185,7 @@
           </JSONPostProcessor>
           <hashTree/>
         </hashTree>
-        <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Uniform Random Timer" enabled="true">
+        <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Uniform Random Timer" enabled="false">
           <stringProp name="ConstantTimer.delay">5000</stringProp>
           <stringProp name="RandomTimer.range">10000</stringProp>
         </UniformRandomTimer>
