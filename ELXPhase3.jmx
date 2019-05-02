@@ -459,7 +459,7 @@
             </HTTPSamplerProxy>
             <hashTree/>
           </hashTree>
-          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="VideosPage-Parallel Controller" enabled="true">
+          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="VideosPage-Parallel Controller" enabled="false">
             <boolProp name="PARENT_SAMPLE">true</boolProp>
           </com.blazemeter.jmeter.controller.ParallelSampler>
           <hashTree>
@@ -526,7 +526,7 @@
             </HTTPSamplerProxy>
             <hashTree/>
           </hashTree>
-          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="TrendingPage-Parallel Controller" enabled="true">
+          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="TrendingPage-Parallel Controller" enabled="false">
             <boolProp name="PARENT_SAMPLE">true</boolProp>
           </com.blazemeter.jmeter.controller.ParallelSampler>
           <hashTree>
@@ -574,7 +574,7 @@
             </HTTPSamplerProxy>
             <hashTree/>
           </hashTree>
-          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="ToolsPage-Parallel Controller" enabled="true">
+          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="ToolsPage-Parallel Controller" enabled="false">
             <boolProp name="PARENT_SAMPLE">true</boolProp>
           </com.blazemeter.jmeter.controller.ParallelSampler>
           <hashTree>
@@ -622,7 +622,7 @@
             </HTTPSamplerProxy>
             <hashTree/>
           </hashTree>
-          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="LearningLevelPage-Parallel Controller" enabled="true">
+          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="LearningLevelPage-Parallel Controller" enabled="false">
             <boolProp name="PARENT_SAMPLE">true</boolProp>
           </com.blazemeter.jmeter.controller.ParallelSampler>
           <hashTree>
@@ -689,7 +689,7 @@
             </ThroughputController>
             <hashTree/>
           </hashTree>
-          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="ModuleListingPage-Parallel Controller" enabled="true">
+          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="ModuleListingPage-Parallel Controller" enabled="false">
             <boolProp name="PARENT_SAMPLE">true</boolProp>
           </com.blazemeter.jmeter.controller.ParallelSampler>
           <hashTree>
@@ -737,7 +737,7 @@
             </HTTPSamplerProxy>
             <hashTree/>
           </hashTree>
-          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="ModuleDetailPage- Parallel Controller" enabled="true">
+          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="ModuleDetailPage- Parallel Controller" enabled="false">
             <boolProp name="PARENT_SAMPLE">true</boolProp>
           </com.blazemeter.jmeter.controller.ParallelSampler>
           <hashTree>
@@ -785,7 +785,7 @@
             </HTTPSamplerProxy>
             <hashTree/>
           </hashTree>
-          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="ProductDetailPage-Parallel Controller" enabled="true">
+          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="ProductDetailPage-Parallel Controller" enabled="false">
             <boolProp name="PARENT_SAMPLE">true</boolProp>
           </com.blazemeter.jmeter.controller.ParallelSampler>
           <hashTree>
@@ -833,7 +833,7 @@
             </HTTPSamplerProxy>
             <hashTree/>
           </hashTree>
-          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="Trending Detail Page-Parallel Controller" enabled="true">
+          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="Trending Detail Page-Parallel Controller" enabled="false">
             <boolProp name="PARENT_SAMPLE">true</boolProp>
           </com.blazemeter.jmeter.controller.ParallelSampler>
           <hashTree>
@@ -881,7 +881,7 @@
             </HTTPSamplerProxy>
             <hashTree/>
           </hashTree>
-          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="UserProfilePage-Parallel Controller" enabled="true">
+          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="UserProfilePage-Parallel Controller" enabled="false">
             <boolProp name="PARENT_SAMPLE">true</boolProp>
           </com.blazemeter.jmeter.controller.ParallelSampler>
           <hashTree>
@@ -986,7 +986,7 @@
             </HTTPSamplerProxy>
             <hashTree/>
           </hashTree>
-          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="LeaderboardPage-Parallel Controller" enabled="true">
+          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="LeaderboardPage-Parallel Controller" enabled="false">
             <boolProp name="PARENT_SAMPLE">true</boolProp>
           </com.blazemeter.jmeter.controller.ParallelSampler>
           <hashTree>
@@ -1053,7 +1053,7 @@
             </HTTPSamplerProxy>
             <hashTree/>
           </hashTree>
-          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="BadgesPage-Parallel Controller" enabled="true">
+          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="BadgesPage-Parallel Controller" enabled="false">
             <boolProp name="PARENT_SAMPLE">true</boolProp>
           </com.blazemeter.jmeter.controller.ParallelSampler>
           <hashTree>
@@ -1101,7 +1101,7 @@
             </HTTPSamplerProxy>
             <hashTree/>
           </hashTree>
-          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="BookmarksPage-Parallel Controller" enabled="true">
+          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="BookmarksPage-Parallel Controller" enabled="false">
             <boolProp name="PARENT_SAMPLE">true</boolProp>
           </com.blazemeter.jmeter.controller.ParallelSampler>
           <hashTree>
@@ -1149,7 +1149,7 @@
             </HTTPSamplerProxy>
             <hashTree/>
           </hashTree>
-          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="SearchPage-Parallel Controller" enabled="true">
+          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="SearchPage-Parallel Controller" enabled="false">
             <boolProp name="PARENT_SAMPLE">true</boolProp>
           </com.blazemeter.jmeter.controller.ParallelSampler>
           <hashTree>
@@ -1197,7 +1197,7 @@
             </HTTPSamplerProxy>
             <hashTree/>
           </hashTree>
-          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="VideoDetailPage-Parallel Controller" enabled="true">
+          <com.blazemeter.jmeter.controller.ParallelSampler guiclass="com.blazemeter.jmeter.controller.ParallelControllerGui" testclass="com.blazemeter.jmeter.controller.ParallelSampler" testname="VideoDetailPage-Parallel Controller" enabled="false">
             <boolProp name="PARENT_SAMPLE">true</boolProp>
           </com.blazemeter.jmeter.controller.ParallelSampler>
           <hashTree>
